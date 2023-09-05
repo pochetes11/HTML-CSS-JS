@@ -31,4 +31,4 @@ console.log(age);
 // 3- ¿Cómo se llama el atajo que nos permite recuperar
 // el valor de una propiedad de un objeto?
 
-// Respuesta:
+// Respuesta: El atajo se llama partner
